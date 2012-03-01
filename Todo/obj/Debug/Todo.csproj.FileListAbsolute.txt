@@ -1,0 +1,7 @@
+C:\Users\pbazan\Documents\ASP\Todo\Todo\bin\Todo.dll
+C:\Users\pbazan\Documents\ASP\Todo\Todo\bin\Todo.pdb
+C:\Users\pbazan\Documents\ASP\Todo\Todo\bin\EntityFramework.dll
+C:\Users\pbazan\Documents\ASP\Todo\Todo\bin\EntityFramework.xml
+C:\Users\pbazan\Documents\ASP\Todo\Todo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pbazan\Documents\ASP\Todo\Todo\obj\Debug\Todo.dll
+C:\Users\pbazan\Documents\ASP\Todo\Todo\obj\Debug\Todo.pdb
